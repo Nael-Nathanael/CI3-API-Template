@@ -1,6 +1,6 @@
-# NoeL's CodeIgniter 3 Template Project
+# CodeIgniter 3 API Template Project
 
-A simple template for urgent or need-fast project that can be deployed on cheap hosting
+A simple template for creating API project in PHP language, CodeIgniter 3 framework.
 
 # Included
 
