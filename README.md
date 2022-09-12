@@ -1,3 +1,5 @@
+Archived. No longer maintained, and I no longer use CodeIgniter 3.
+
 # CodeIgniter 3 API Template Project
 
 A simple template for creating API project in PHP language, CodeIgniter 3 framework.
